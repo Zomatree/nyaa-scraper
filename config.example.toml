@@ -1,0 +1,8 @@
+[nyaa]
+url = "https://nyaa.si/?page=rss"
+interval = 60
+
+[discord]
+webhook_url = ""
+avatar_url = ""
+author_name = "Nyaa.is"
